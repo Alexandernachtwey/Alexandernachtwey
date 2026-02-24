@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandernachtwey
 - 👀 I’m interested in ... currently App development
-- 🌱 I’m currently learning ... Flutter and Teta
+- 🌱 I’m currently learning ... genAI: agentic coding
 - 📫 How to reach me ... Not yet ;-)
 
 <!---
